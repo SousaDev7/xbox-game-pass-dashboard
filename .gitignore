@@ -1,0 +1,22 @@
+# ===== Arquivos temporários do Excel =====
+~$*.xlsx
+~$*.xls
+
+# ===== Backups automáticos do Excel =====
+*.xlk
+
+# ===== Arquivos temporários do sistema =====
+.DS_Store
+Thumbs.db
+
+# ===== Arquivos de cache =====
+*.tmp
+*.bak
+
+# ===== Logs =====
+*.log
+
+# ===== Pastas desnecessárias =====
+__pycache__/
+.vscode/
+.idea/
