@@ -43,3 +43,6 @@ xbox-game-pass-dashboard/
 │
 ├── .gitignore
 └── README.md
+
+📌 **Autor:** Pedro Sousa  
+🚀 **Status:** Projeto concluído
